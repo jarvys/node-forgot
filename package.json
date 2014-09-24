@@ -1,6 +1,6 @@
 {
   "name": "forgot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "forgot the exceptions function throws",
   "main": "index.js",
   "scripts": {
