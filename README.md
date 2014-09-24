@@ -1,6 +1,6 @@
 # node-forgot
 
-> forgot the exceptions the function throws, just go on:)
+> Forgot exceptions the function throws, just go on:)
 
 ## Install
 
