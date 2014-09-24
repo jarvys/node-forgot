@@ -1,8 +1,12 @@
 {
   "name": "forgot",
   "version": "0.0.1",
-  "description": "forgot the exceptions function throws",
+  "description": "Forgot the exceptions function throws, just go on",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jarvys/node-forgot.git"
+  },
   "scripts": {
     "test": "mocha"
   },
